@@ -31,7 +31,7 @@ conda activate SemNet
 ```
 Download the following pretrained models and place them in the `pretrained_models/` directory:
 - ChemBERTa-77M-MTR: https://huggingface.co/DeepChem/ChemBERTa-77M-MTR
--  BioBERT: https://huggingface.co/dmis-lab/biobert-base-cased-v1.2
+- BioBERT: https://huggingface.co/dmis-lab/biobert-base-cased-v1.2
 - RNABERT: https://huggingface.co/yangheng/rnabert
 ```
 
